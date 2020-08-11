@@ -1,9 +1,9 @@
 Hi there 👋, I am Isitha Subasinghe. 
 ======
-### I am a deeply curious, motivated induvidual. I leave no stone unturned and as a result of this I have deep knowledge in maths (**linear algebra**, **calculus**, **multivariable calculus, ODEs**), computer science(**inverted indexes for search engines**, **graph theory**, **operating systems**, **automata**, **compilers**, **exotic datastructures such as splay trees, pairing heaps, fib heaps and more**).
+#### I am a deeply curious, motivated induvidual. I leave no stone unturned and as a result of this I have deep knowledge in maths (**linear algebra**, **calculus**, **multivariable calculus, ODEs**), computer science(**inverted indexes for search engines**, **graph theory**, **operating systems**, **automata**, **compilers**, **exotic datastructures such as splay trees, pairing heaps, fib heaps and more**).
 
 
-### I started programming in primary school with Pascal and over the years I have picked up quite a few languages (**Python**, **Haskell**, **C**, **C++**, **C#**, **Java**, **JavaScript**, **TypeScript**, **Go**, **Lua**, **Matlab**, **Pascal**, **BASIC** and a little bit of **x86** on linux), this has left me quite malleable as a software engineer and I am able to pick up new languages extremely quickly. I am very keen to learn a few more (Rust, Erlang, Prolog, Idris sounds so cool with the ability to formally prove algorithms, Hamler which is basically Haskell on Erlang's BEAM, Ada for its safety).
+#### I started programming in primary school with Pascal and over the years I have picked up quite a few languages (**Python**, **Haskell**, **C**, **C++**, **C#**, **Java**, **JavaScript**, **TypeScript**, **Go**, **Lua**, **Matlab**, **Pascal**, **BASIC** and a little bit of **x86** on linux), this has left me quite malleable as a software engineer and I am able to pick up new languages extremely quickly. I am very keen to learn a few more (Rust, Erlang, Prolog, Idris sounds so cool with the ability to formally prove algorithms, Hamler which is basically Haskell on Erlang's BEAM, Ada for its safety).
 
 ## Repositories
 * #### [Compiler to be open sourced](https://github.com/isubasinghe/GoatCompiler)
