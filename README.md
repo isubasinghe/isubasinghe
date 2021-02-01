@@ -2,7 +2,6 @@ Hi there 👋, I am Isitha Subasinghe.
 ======
 
 ## Repositories
-* #### [Compiler to be open sourced](https://github.com/isubasinghe/RooCompiler)
 * #### [Fast JSON parser from scratch](https://github.com/isubasinghe/pjson)
 * #### [Inverted Index](https://github.com/isubasinghe/qsearch)
 * #### [Userland driver for drv8835 motor](https://github.com/isubasinghe/libdrv8835)
