@@ -2,7 +2,7 @@ Hi there 👋, I am Isitha Subasinghe.
 ======
 
 ## Repositories
-* #### [Raft atomic broadcast implementation] (https://github.com/isubasinghe/sraft-rs)
+* #### [Raft atomic broadcast implementation](https://github.com/isubasinghe/sraft-rs)
 * #### [Fast JSON parser from scratch](https://github.com/isubasinghe/pjson)
 * #### [Inverted Index](https://github.com/isubasinghe/qsearch)
 * #### [Userland driver for drv8835 motor](https://github.com/isubasinghe/libdrv8835)
