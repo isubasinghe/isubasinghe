@@ -6,7 +6,6 @@ Hi there 👋, I am Isitha Subasinghe.
 * #### [Fast JSON parser from scratch](https://github.com/isubasinghe/pjson)
 * #### [Inverted Index](https://github.com/isubasinghe/qsearch)
 * #### [Userland driver for drv8835 motor](https://github.com/isubasinghe/libdrv8835)
-* #### [Operating Systems to come, planning to study OS at UNSW](https://www.handbook.unsw.edu.au/undergraduate/courses/2020/COMP9242)
 * #### [Linux Epoll based HTTP Server from scratch](https://github.com/isubasinghe/http-server)
 * #### [ICMP Ping](https://github.com/isubasinghe/ping)
 * #### [Height Map Generator for games](https://github.com/isubasinghe/HeightMapGenerator)
