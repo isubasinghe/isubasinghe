@@ -4,6 +4,7 @@ Hi there 👋, I am Isitha Subasinghe.
 ## Repositories
 * #### [Raft - Atomic broadcast implementation](https://github.com/isubasinghe/sraft-rs)
 * #### [Fast JSON parser from scratch](https://github.com/isubasinghe/pjson)
+* #### [Latch free data structures in C++](https://github.com/isubasinghe/latch-free-ds)
 * #### [Inverted Index](https://github.com/isubasinghe/qsearch)
 * #### [Userland driver for drv8835 motor](https://github.com/isubasinghe/libdrv8835)
 * #### [Linux Epoll based HTTP Server from scratch](https://github.com/isubasinghe/http-server)
