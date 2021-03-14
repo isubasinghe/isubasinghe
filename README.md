@@ -14,6 +14,7 @@ Hi there 👋, I am Isitha Subasinghe.
 * #### [Chip8 8bit machine emulator in C with SDL2 for UI](https://github.com/isubasinghe/chip8)
 * #### [Levenshtein distance based spelling corrector](https://github.com/isubasinghe/COMP20007-ass2/tree/master/assignment2)
 * #### [Dijkstra's algorithm](https://github.com/isubasinghe/COMP10002-ass2/blob/master/ass2-soln.c)
+* #### [Messing around with LLVM, OCaml, Menhir and Sedlex](https://github.com/isubasinghe/mlang)
 
 ## Hackathons
 * #### [Facebook Hackathon](https://github.com/isubasinghe/fbhack-2019-frontend)
