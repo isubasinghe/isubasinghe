@@ -17,5 +17,7 @@ Hi there 👋, I am Isitha Subasinghe.
 * #### [Messing around with LLVM, OCaml, Menhir and Sedlex](https://github.com/isubasinghe/mlang)
 
 ## Hackathons
+* #### [Unihack 2021 - DevPost(We won? lmao)](https://devpost.com/software/scalr-ht4loi)
+* #### [Unihack 2021 - Code](https://github.com/isubasinghe/unihack2021)
 * #### [Facebook Hackathon](https://github.com/isubasinghe/fbhack-2019-frontend)
 * #### [Accenture Hackathon](https://github.com/isubasinghe/bit-bankers)
