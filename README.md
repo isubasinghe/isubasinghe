@@ -3,6 +3,7 @@ Hi there 👋, I am Isitha Subasinghe.
 
 ## Repositories
 * #### [Raft - Atomic broadcast implementation](https://github.com/isubasinghe/sraft-rs)
+* #### [Raft but in Haskell (Incomplete)](https://github.com/isubasinghe/raft-hs)
 * #### [Fast JSON parser from scratch](https://github.com/isubasinghe/pjson)
 * #### [Latch free data structures in C++](https://github.com/isubasinghe/latch-free-ds)
 * #### [Inverted Index](https://github.com/isubasinghe/qsearch)
